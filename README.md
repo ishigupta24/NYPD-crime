@@ -5,11 +5,11 @@
 39217 Group 7
 
 # Team Members
-1. Dylan McMorrow
-2. Aafreen Anjum
-3. Jack Drummond
-4. Ishi Gupta
-5. Miral Lakhani
+ 1. Dylan McMorrow
+ 2. Aafreen Anjum
+ 3. Jack Drummond
+ 4. Ishi Gupta
+ 5. Miral Lakhani
 
 # Description of Dataset
 Our dataset shows all of the NYPD arrest records in the 5 boroughs of New York City for the current year (2023). We obtained our dataset from US Data.gov website (https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date). Each record represents an arrest affected by the NYPD and includes information about the type, location, and time of enforcement. Additionally, descriptions for suspect demographics are also included. 
